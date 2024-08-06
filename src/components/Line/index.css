@@ -1,0 +1,28 @@
+.chart-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recharts-text,
+  .recharts-label {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .recharts-cartesian-axis-line,
+  .recharts-cartesian-axis-tick-line {
+    stroke: #ccc;
+  }
+  
+  .recharts-cartesian-grid-line {
+    stroke: #eee;
+  }
+  
+  .recharts-tooltip-wrapper {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+  }
